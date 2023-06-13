@@ -1,0 +1,1 @@
+var json_Waduk_9 = {"type":"FeatureCollection","name":"Waduk_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Field1":-7.816813089,"Field2":112.3035515,"lokasi":"Waduk Siman"},"geometry":{"type":"Point","coordinates":[112.3035515,-7.816813089]}}]}
